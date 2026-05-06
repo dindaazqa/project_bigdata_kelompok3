@@ -35,7 +35,8 @@ Proyek ini membangun pipeline analitik Big Data end-to-end untuk memprediksi ret
 ---
 
 ## 📊 Dataset
-- **Sumber**: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle)
+- **Sumber**: [Employee Attrition & Retention Analytics Dataset
+](https://www.kaggle.com/datasets/ajinkyachintawar/employee-attrition-and-retention-analytics-dataset) (Kaggle)
 - **Ukuran**: 1.470 baris × 35 kolom
 - **Target**: `left_company` (0 = Bertahan, 1 = Keluar)
 - **Class Imbalance**: 83.9% Bertahan vs 16.1% Keluar (rasio 5.2:1)
